@@ -1,4 +1,4 @@
-# health_hive
+# Health_Hive
 
 #### A simple ML and DL based website which predicts disease based on the symptoms provided and recommends precautions, diets, workouts, medications.
 
@@ -33,18 +33,18 @@
 - Before the following steps make sure you have [git](https://git-scm.com/download), [Anaconda](https://www.anaconda.com/) or [miniconda](https://docs.conda.io/en/latest/miniconda.html) installed on your system
 - Clone the complete project with or you can just download the code and unzip it
   ```
-  ❯ git clone -b deploy https://github.com/bhoomikamittal8/health_hive.git
+  ❯ git clone -b deploy https://github.com/bhoomikamittal8/Health_Hive.git
   ```
 - Once the project is cloned, open anaconda prompt in the directory where the project was cloned and paste the following block
   ```
-  conda create -n health_hive python=3.6.12
-  conda activate health_hive
+  conda create -n Health_Hive python=3.6.12
+  conda activate Health_Hive
   pip install -r requirements.txt
   ```
 only you have to activate it everytime you open new terminal or reopen project after exit.
 - Activate venv (virtual environment)
     ```
-    conda activate health_hive
+    conda activate Health_Hive
     ```
 - And finally run the project with
   ```
@@ -64,4 +64,4 @@ This was my first big project so there are lot of things to improve upon
 
 ## Contact 📞
 
-#### If you have any doubt or want to contribute feel free to email me or hit me up on [LinkedIn](https://www.linkedin.com/in/bhoomikamittal/)
+#### If you have any doubt feel free to email me or hit me up on [LinkedIn](https://www.linkedin.com/in/bhoomikamittal/)
