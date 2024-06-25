@@ -1,6 +1,6 @@
 # Health_Hive
 
-#### A simple ML and DL based website which predicts disease based on the symptoms provided and recommends precautions, diets, workouts, medications.
+#### AIML and DL based website which predicts disease based on the symptoms provided and recommends precautions, diets, workouts, medications.
 
 ## DISCLAIMER ⚠️
 > This is a POC(Proof of concept) kind-of project. The data used here comes up with no guarantee from the creator. So, don't use it for making health decisions. If you do so, the creator is not responsible for anything. However, this project presents the idea that how we can use ML/DL in health care if developed at large scale and with authentic and verified data.
