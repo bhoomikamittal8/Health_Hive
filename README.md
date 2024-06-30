@@ -53,7 +53,7 @@ only you have to activate it everytime you open new terminal or reopen project a
 - Open the localhost url provided after running `main.py` and now you can use the project locally in your web browser.
 
 ## Further Improvements 📈
-This was my first big project so there are lot of things to improve upon
+This was my Practice Project so there are lot of things to improve upon
 
 - CSS code is totally messed up :pensive: (some code in file and some inline)
 - Frontend can be made more nicer (PS: I suck at frontend development) :cry:	
